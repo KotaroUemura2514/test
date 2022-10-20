@@ -7,3 +7,10 @@ text-align: center;}
     padding: 1px 39px 25px 36px;
     background-color: aliceblue;
     border-radius: 10px;}
+    .btn{
+        border-radius: 5px;
+        background-color: lightblue;
+        padding: 10px;
+        text-decoration: none;
+        color: white;
+      }
